@@ -11,7 +11,7 @@
 <p> <b> Multimídia e Interatividade: </b> O Wiki 2.0 vai integrar multimídia de forma mais orgânica. Vídeos e galerias de imagens serão incorporados diretamente nos artigos, enriquecendo a experiência do usuário sem comprometer o desempenho.</p>
 
 <div align = "center">
-<h2><a href="" target="_blank"> Acesse Agora </a></h2>
+<h2><a href="https://wikipedia-2-0.vercel.app/" target="_blank"> Acesse Agora </a></h2>
 
 <p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt="Home Page do site versão desktop"> </p>
 <p> Home Page do site <p>
