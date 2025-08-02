@@ -13,7 +13,7 @@
 <div align = "center">
 <h2><a href="" target="_blank"> Acesse Agora </a></h2>
 
-<p> <img src="" alt="Home Page do site versão desktop"> </p>
+<p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt="Home Page do site versão desktop"> </p>
 <p> Home Page do site <p>
 
 <h1> Projeto não finalizado e com fins educacionais.</h1>
